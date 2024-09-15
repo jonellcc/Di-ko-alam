@@ -3,7 +3,7 @@ import asyncio
 import os
 import time
 
-TARGET_URL = "https://lacarlotacitycollege.edu.ph/"  
+TARGET_URL = "http://www.noceco.ph/"  
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
