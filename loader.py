@@ -4,7 +4,7 @@ import os
 import random
 from fake_useragent import UserAgent
 
-TARGET_URL = "https://lacarlotacitycollege.edu.ph/"  #your target URL lol bahala na sila
+TARGET_URL = "http://www.noceco.ph/"  #your target URL lol bahala na sila
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
