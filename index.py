@@ -3,7 +3,7 @@ import asyncio
 import os
 import time
 
-TARGET_URL = "http://www.noceco.ph/"  
+TARGET_URL = "https://lcccautomate.net/alams/signin.php"  
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
