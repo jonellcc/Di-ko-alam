@@ -3,7 +3,7 @@ import asyncio
 import os
 import time
 
-TARGET_URL = "http://www.noceco.ph"  # Replace with your target URL lol
+TARGET_URL = "https://lcccautomate.net/alams/signin.php"  # Replace with your target URL lol
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
