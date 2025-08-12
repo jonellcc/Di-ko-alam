@@ -4,7 +4,7 @@ import os
 import random
 from fake_useragent import UserAgent
 
-TARGET_URL = "http://www.noceco.ph"  # Replace with your target URL
+TARGET_URL = "https://lcccautomate.net/alams/signin.php"  # Replace with your target URL
 
 os.system('cls' if os.name == 'nt' else 'clear')
 
