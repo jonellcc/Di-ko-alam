@@ -13,7 +13,7 @@ class HelloHandler(BaseHTTPRequestHandler):
         self.wfile.write(b"Hello World")
 
 def run_http_server():
-    server = HTTPServer(("0.0.0.0", 8080), HelloHandler)
+    server = HTTPServer(("0.0.0.0", 7860), HelloHandler)
     print("HTTP server running on port 8080")
     server.serve_forever()
 
